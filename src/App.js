@@ -23,7 +23,7 @@ class App extends Component {
         <Navbar fluid>
           <Navbar.Header>
             <Navbar.Brand>
-              <a href="#">Kittens-Keychain</a>
+              <a href="#">Kitty-Keychain</a>
             </Navbar.Brand>
             <Button
               bsStyle="primary"
